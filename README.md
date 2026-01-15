@@ -539,14 +539,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -558,3 +550,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **⭐ If you found this project interesting, please consider giving it a star!**
+
