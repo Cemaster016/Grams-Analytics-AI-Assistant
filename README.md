@@ -1,4 +1,4 @@
-# 🤖 Grams Bank AI Analytics Agent
+# 🤖 Grams AI Analytics Agent
 
 > **Enterprise-Grade AI Assistant for Banking Operations**  
 > A secure, role-based AI agent built on Azure Functions that combines SQL analytics with RAG (Retrieval-Augmented Generation) to provide intelligent insights to banking staff.
@@ -555,5 +555,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The banking industry for inspiring this use case
 
 ---
+
 
 **⭐ If you found this project interesting, please consider giving it a star!**
